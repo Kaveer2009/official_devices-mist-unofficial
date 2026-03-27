@@ -3,18 +3,15 @@
 		{
 			"maintainer": "Kaveer",
 			"oem": "Xiaomi",
-			"device": "POCO F7 / Redmi Turbo 4 Pro",
-			"filename": "MistOS-4.5-Velour-16.0-GAPPS-20260324-1739-onyx-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/onyx/MistOS-4.5-Velour-16.0-GAPPS-20260324-1739-onyx-OFFICIAL.zip/download",
-			"timestamp": 1774373873,
-			"md5": "b4de08e25b017fc5129e7a2df6022292",
-			"sha256": "af470be74df9e719450a94a420696a0534ba38605e5afb0a332197c84a3c6075",
-			"size": 4657714823,
+			"device": "onyx",
+			"filename": "MistOS-4.5-Velour-16.0-GAPPS-20260327-1410-onyx-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/mistos-onyx-unofficial/files/Android16/onyx/MistOS-4.5-Velour-16.0-GAPPS-20260327-1410-onyx-UNOFFICIAL.zip/download",
+			"timestamp": 1774599984,
+			"md5": "347b1b3d97628ad56400150c387afcea",
+			"sha256": "dde1b1e0425a0ef13af3455998686a681af6a646bc2f6a72afb1b84e31e8264a",
+			"size": 5855323023,
 			"version": "4.5-Velour",
 			"buildtype": "GAPPS",
-			"forum": "",
-			"recovery": "",
-			"paypal": "",
 			"telegram": "https://t.me/KaveerRomFactorySupport"
 		}
 	]
