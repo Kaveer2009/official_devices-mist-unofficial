@@ -4,14 +4,17 @@
 			"maintainer": "Kaveer",
 			"oem": "Xiaomi",
 			"device": "onyx",
-			"filename": "MistOS-4.5-Velour-16.0-GAPPS-20260327-1410-onyx-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/mistos-onyx-unofficial/files/Android16/onyx/MistOS-4.5-Velour-16.0-GAPPS-20260327-1410-onyx-UNOFFICIAL.zip/download",
-			"timestamp": 1774599984,
-			"md5": "347b1b3d97628ad56400150c387afcea",
-			"sha256": "dde1b1e0425a0ef13af3455998686a681af6a646bc2f6a72afb1b84e31e8264a",
-			"size": 5855323023,
+			"filename": "MistOS-4.5-Velour-16.0-GAPPS-20260328-0057-onyx-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/onyx/MistOS-4.5-Velour-16.0-GAPPS-20260328-0057-onyx-UNOFFICIAL.zip/download",
+			"timestamp": 1774638664,
+			"md5": "9527ed9d8dcf876fcfbdd6d24ee17e11",
+			"sha256": "d655981cdd83b9bb543725aecfa931dc6db537fe10135b41c99b4030e714853c",
+			"size": 5863087783,
 			"version": "4.5-Velour",
 			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
 			"telegram": "https://t.me/KaveerRomFactorySupport"
 		}
 	]
