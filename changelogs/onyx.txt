@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: OFFICIAL (Monthly)
+Build type: UNOFFICIAL (Monthly)
 Device: POCO F7 / Redmi Turbo 4 Pro
 Device maintainer: Kaveer (@kaveerrana)
 
