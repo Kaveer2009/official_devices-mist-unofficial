@@ -1,16 +1,82 @@
 Highlights & Device Specific Changes:
-Build type: UNOFFICIAL (Monthly)
+Build type: PERSONAL (Monthly)
 Device: POCO F7 / Redmi Turbo 4 Pro
 Device maintainer: Kaveer (@kaveerrana)
 
 Highlights & Device Specific Changes:
+=====================
+      11-04-26
+=====================
+🔋 Battery & Charging
+- Improved charging control reliability for more stable behavior
+- Enhanced battery components for better performance and maintainability
+
+⚙️ System Improvements
+- Reworked battery-related components for smoother and more efficient operation
 
 =====================
-      69-69-69
+      29-03-26
 =====================
-- Initial build
+🚀 Performance & System
+- Optimized scheduling by setting WALT governor before Power HAL
+- Increased ZRAM to 8GB for smoother multitasking
+- Switched thermal config to mgame profile
+- Improved system security with tighter sysfs & permission handling
 
-CHeck check Kaveer PRO !!!!!
-ONXY POCO F7
-wth no changelogs updating!!!!
-why???????????????
+🔋 Charging & Battery
+- Added advanced charging control support
+- Improved charging UI with Expressive theme
+- Fixed charging interface & sysfs permission issues
+- Added margin support for charging limits
+
+🎧 Audio & Connectivity
+- Enabled volume listeners for:
+  • Voice
+  • Ring
+  • Alarm
+  • Notifications
+- Fixed Bluetooth BAP broadcast source property
+- Removed conflicting LE Audio overrides
+
+📸 Camera
+- Enabled CameraX extensions support
+- Removed unused camera configs & watermarks
+- Cleaned up conflicting camera properties
+
+🎨 UI & Features
+- Applied Expressive theming in Parts
+- Fixed DT2W crash loop (now uses system property)
+- Introduced native DT2W service (replaces pixel-libperfmgr patch)
+- Added initial variant handler (libinit)
+
+🔒 SELinux & Security
+- Fixed multiple SELinux denials:
+  • mediacodec
+  • mediaprovider
+  • power HAL
+- Improved property handling for DT2W & color modes
+- Restored proper Power HAL policies
+
+🧹 Cleanup & Refactoring
+- Removed redundant build configs & duplicate properties
+- Cleaned Vulkan declarations
+- Removed unused OGL shader binaries
+- Removed duplicate scripts & dead references
+- Refactored Parts, BootReceiver & charging logic
+
+🔁 Reverts
+- Reverted ART debug → release mode change
+- Reverted thermal profile tweak
+- Dropped Lineage Health HAL
+
+
+📦 Vendor Changelog
+- Dropped unused camera configurations
+- Removed unnecessary OGL shader binaries
+
+
+🧠 Kernel Changelog
+- No major kernel changes
+- Synced updates:
+  • Removed camera watermarks
+  • Enabled CameraX extensions
