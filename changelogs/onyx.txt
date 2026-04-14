@@ -5,6 +5,11 @@ Device maintainer: Kaveer (@kaveerrana)
 
 Highlights & Device Specific Changes:
 =====================
+      14-04-26
+=====================
+-Source upstream
+
+=====================
       11-04-26
 =====================
 🔋 Battery & Charging
